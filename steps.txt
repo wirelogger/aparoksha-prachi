@@ -1,8 +1,0 @@
-[*] github login
-[ *] download gcloud util
-[ *] download github client/shell
-[ *] create a repository on github
-[ *] clone the repo
-[ *]console.developers.google.com
-[ *]source code
-[ *]connect github
